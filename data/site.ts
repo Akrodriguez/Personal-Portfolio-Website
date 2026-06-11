@@ -33,7 +33,7 @@ export const site: SiteProfile = {
   },
   links: {
     github: "https://github.com/Akrodriguez",
-    linkedin: "https://www.linkedin.com/in/ansh-kumar-b9b3572a3",
+    linkedin: "https://www.linkedin.com/in/anshkumar07",
     email: "mailto:anshkr11c@gmail.com",
     resume: "/resume.pdf",
   },
