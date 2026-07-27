@@ -30,7 +30,11 @@ const skillCategories: SkillCategory[] = [
   },
   {
     title: "Tools",
-    skills: ["Git", "GitHub", "Figma", "VS Code", "Streamlit"],
+    skills: ["Git", "GitHub", "Figma", "VS Code", "Linux"],
+  },
+  {
+    title: "High Performance Computing",
+    skills: ["CUDA", "OpenMP", "GPU Computing", "Linux", "PyTorch"],
   },
 ];
 
