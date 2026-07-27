@@ -10,7 +10,7 @@ export type Experience = {
 
 export const experience: Experience[] = [
   {
-    role: "High Performance Computing (HPC) Summer Intern",
+    role: "High Performance Computing (HPC) Intern",
     company: "Jaypee Institute of Information Technology",
     location: "Noida, India",
     duration: "June 2026 – July 2026 • 2 Months",

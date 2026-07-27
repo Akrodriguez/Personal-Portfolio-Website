@@ -19,7 +19,7 @@ const signalItems = [
   },
   {
     label: "Latest Experience",
-    value: "Data Science Intern @ The Developers Arena",
+    value: "High Performance Computing (HPC) Intern @ JIIT",
     icon: BriefcaseBusiness,
   },
   {

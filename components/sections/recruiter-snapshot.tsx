@@ -16,7 +16,7 @@ const snapshotCards = [
     icon: GraduationCap,
   },
   {
-    title: "High Performance Computing (HPC) Summer Intern",
+    title: "High Performance Computing (HPC) Intern",
     description:
       "Developed GPU-accelerated brain tumor segmentation on the Ramanujan Universe Supercomputer using OpenMP, CUDA, and PyTorch.",
     icon: BriefcaseBusiness,
