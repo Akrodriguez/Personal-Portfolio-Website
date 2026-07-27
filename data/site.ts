@@ -20,7 +20,7 @@ export const site: SiteProfile = {
   name: "Ansh Kumar",
   title: "Computer Science Student",
   institution: "JIIT, Noida",
-  currentRole: "Ex-Data Science Intern at The Developers Arena",
+  currentRole: "HPC Intern at Jaypee Institute of Information Technology",
   tagline: "Building full-stack and data-driven products with a focus on software engineering, AI, and data science.",
   availability: {
     status: "Open to Job/internship opportunities",
