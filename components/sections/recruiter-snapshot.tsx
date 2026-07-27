@@ -18,7 +18,7 @@ const snapshotCards = [
   {
     title: "High Performance Computing (HPC) Summer Intern",
     description:
-      "Worked on the HPC-MedVision project, developing GPU-accelerated medical image processing and brain tumor segmentation on the Ramanujan Universe Supercomputer.",
+      "Developed GPU-accelerated brain tumor segmentation on the Ramanujan Universe Supercomputer using OpenMP, CUDA, and PyTorch.",
     icon: BriefcaseBusiness,
   },
   {
