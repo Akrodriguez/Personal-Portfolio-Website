@@ -61,9 +61,9 @@ export default function About() {
         >
           <div className="space-y-5 text-base leading-8 text-white/75">
             <p>
-              I am a Computer Science student at JIIT with interests in
-              full-stack development, software engineering, AI, and data
-              science.
+              I'm a Computer Science student at JIIT passionate about full-stack development, 
+              software engineering, artificial intelligence, 
+              and high-performance computing.
             </p>
 
             <p>
@@ -73,9 +73,10 @@ export default function About() {
             </p>
 
             <p>
-              I have experience through a Data Science Internship at The
-              Developers Arena and projects including SmartGym AI, Fraud
-              Detection System, and Air Quality Trend Analysis.
+             Through internships in High Performance Computing (HPC) and Data Science, 
+             along with projects like SmartGym AI, FraudLens, and InsightAir, 
+             I've gained hands-on experience in software development, GPU computing, 
+             and AI-driven solutions.
             </p>
           </div>
 
