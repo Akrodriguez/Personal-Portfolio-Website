@@ -10,24 +10,24 @@ export type Experience = {
 
 export const experience: Experience[] = [
   {
-    role: "High Performance Computing (HPC) Intern",
+    role: "High Performance Computing (HPC) Summer Intern",
     company: "Jaypee Institute of Information Technology",
     location: "Noida, India",
     duration: "June 2026 – July 2026 • 2 Months",
     description:
-      "Worked on the HPC-MedVision project, implementing GPU-accelerated brain tumor segmentation using MRI images on the Ramanujan Universe Supercomputer. Built an end-to-end medical image processing pipeline while exploring High Performance Computing techniques.",
+      "Developed HPC-MedVision, an end-to-end brain tumor segmentation pipeline on the Ramanujan Universe Supercomputer using OpenMP, CUDA, and PyTorch U-Net. Accelerated MRI preprocessing, implemented GPU image enhancement, and benchmarked Sequential CPU, OpenMP, and CUDA performance on the LGG MRI dataset",
     achievements: [
-      "Implemented MRI image preprocessing including resizing, normalization, and histogram computation.",
-      "Worked with the LGG Brain MRI dataset for tumor segmentation.",
-      "Developed GPU-accelerated image processing workflows using CUDA.",
-      "Optimized medical imaging tasks using High Performance Computing on the Ramanujan Universe Supercomputer.",
+      "Implemented OpenMP-based parallel preprocessing for MRI image loading, resizing, normalization, and histogram computation.",
+      "Developed CUDA kernels for Gaussian Blur, Histogram Equalization, and Sobel Edge Detection for GPU-accelerated image enhancement.",
+      "Trained and evaluated a PyTorch U-Net on the LGG MRI dataset (110 patients, 3,929 MRI slice–mask pairs).",
+      "Benchmarked Sequential CPU, OpenMP, and CUDA implementations, achieving up to 6× preprocessing speedup on the Ramanujan Universe Supercomputer.",
     ],
     technologies: [
       "CUDA",
+      "OpenMP",
+      "PyTorch",
       "C++",
       "Python",
-      "OpenCV",
-      "HPC",
       "GPU Computing",
       "Linux",
     ],
