@@ -16,9 +16,9 @@ const snapshotCards = [
     icon: GraduationCap,
   },
   {
-    title: "Data Science Intern",
+    title: "High Performance Computing (HPC) Summer Intern",
     description:
-      "Previously interned at The Developers Arena working with practical data workflows.",
+      "Worked on the HPC-MedVision project, developing GPU-accelerated medical image processing and brain tumor segmentation on the Ramanujan Universe Supercomputer.",
     icon: BriefcaseBusiness,
   },
   {
